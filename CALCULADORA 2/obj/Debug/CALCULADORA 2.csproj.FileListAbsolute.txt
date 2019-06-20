@@ -1,0 +1,9 @@
+d:\documentos\visual studio 2015\Projects\CALCULADORA 2\CALCULADORA 2\bin\Debug\CALCULADORA 2.exe.config
+d:\documentos\visual studio 2015\Projects\CALCULADORA 2\CALCULADORA 2\bin\Debug\CALCULADORA 2.exe
+d:\documentos\visual studio 2015\Projects\CALCULADORA 2\CALCULADORA 2\bin\Debug\CALCULADORA 2.pdb
+d:\documentos\visual studio 2015\Projects\CALCULADORA 2\CALCULADORA 2\obj\Debug\CALCULADORA 2.csprojResolveAssemblyReference.cache
+d:\documentos\visual studio 2015\Projects\CALCULADORA 2\CALCULADORA 2\obj\Debug\CALCULADORA_2.Form1.resources
+d:\documentos\visual studio 2015\Projects\CALCULADORA 2\CALCULADORA 2\obj\Debug\CALCULADORA_2.Properties.Resources.resources
+d:\documentos\visual studio 2015\Projects\CALCULADORA 2\CALCULADORA 2\obj\Debug\CALCULADORA 2.csproj.GenerateResource.Cache
+d:\documentos\visual studio 2015\Projects\CALCULADORA 2\CALCULADORA 2\obj\Debug\CALCULADORA 2.exe
+d:\documentos\visual studio 2015\Projects\CALCULADORA 2\CALCULADORA 2\obj\Debug\CALCULADORA 2.pdb
